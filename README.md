@@ -1,7 +1,7 @@
 <h1 align="center">
   Volunteering
   <br />
-  <img alt="Volunteering CI" src="https://github.com/WesGtoX/volunteering/workflows/volunteering%20CI/badge.svg" />
+  <img alt="Volunteering CI" src="https://github.com/WesGtoX/volunteering/workflows/Volunteering%20CI/badge.svg" />
 </h1>
 
 <p align="center">
@@ -90,7 +90,7 @@ make test
 |  `PUT`   | `/actions/:id` | Change the data for a specific action. |
 | `DELETE` | `/actions/:id` | Remove a specific action.              |
 
-_For more examples, please refer to the [Documentation](https://github.com/WesGtoX/volunteering/wiki)_
+_For more examples, please refer to the [**Documentation**](https://github.com/WesGtoX/volunteering/wiki)_
 
 
 ## License
